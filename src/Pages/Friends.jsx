@@ -37,7 +37,6 @@ const Friends = () => {
             <Logo src={FoodiesLogo} />
             <NavBar />
         </Header>
-        <Title>Your Friends</Title>
         <FriendsBox>
             <AllFriends />
         </FriendsBox>
