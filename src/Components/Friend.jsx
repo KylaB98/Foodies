@@ -50,6 +50,7 @@ const ButtonBox = styled.div`
 
 `
 const Button = styled.button`
+    color: white;
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
     width: 65px;
