@@ -19,8 +19,8 @@ const NavContainer = styled.div`
     justify-content: center;
     text-align: center;
     background-color: #FF5700;
-    border-top-right-radius: 20px;
-    border-top-left-radius: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     padding: 15px;
     width: 450px;
